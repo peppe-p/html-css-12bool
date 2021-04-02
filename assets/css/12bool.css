@@ -19,14 +19,15 @@
 }
 
 .debug [class*="col-"] {
-    background-color: orange;
-    border: 2px solid deeppink;
+    background-color: #ffc0cb;
+    border: 1px solid black;
     height: 200px;
 }
 
 [class*="col-"] {
     float: left;
 }
+
 
 
 /* ################### */
@@ -68,6 +69,7 @@
 .col-12 {
     width: calc((100% / 12) * 12);
 }
+
 
 
 /* ######################## */
